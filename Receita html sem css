@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport"
+   content="width=device-width,initial-scale=1.0">
+   <title>Documento</title>
+</head>
+
+<body>
+<h1>Receita de bolo de caneca</h1>
+<img src="bolo.jpg" alt="Bolo">
+
+<hr>
+
+<p><b>Ingredientes</b></p>
+   <ul>
+    <li>1 ovo</li>
+
+    <li>4 colheres de açucar</li>
+    <li>4 colheres de achocolatado</li>
+    <li>4 colheres de farinha</li>
+    <li>2 colheres de ólho</li>
+    <li>1 colher de fermento quimico</li>
+   </ul>
+
+   <p><b>Método de preparo</b></p>
+   <p>Bata o ovo com o açucar, após adicione o ólho e a farinha e bata novamente, 
+então coloque o achocolatado e o fermento e bata novamente.
+</p>
+    <p>Coloque no microondas e deixe para assar tirando de 30 em 30 segundos para não vazar</p>
+
+    <p><b>link para o video da receita</b></p>
+    <a href="https://www.tiktok.com/@cozinheirotommy/video/7480552282875022647">Video</a>
+
+</body>
+</html>
